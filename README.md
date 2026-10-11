@@ -3,7 +3,7 @@
 **Print-ready booklet imposition for hand bookbinders — free, scriptable, and size-agnostic.**
 
 ![Cut and grouped signatures of a miniature illustrated manuscript facsimile](docs/signatures_photo.jpg)
-*Signatures for a miniature facsimile, printed from this tool's output, cut and grouped for sewing. Source: *The Ramayana (The Freer Ramayana), Volume 1*, Mughal, 1597–1605, Freer Gallery of Art, Smithsonian Institution, gift of Charles Lang Freer, F1907.271.1-172 ([CC0](https://www.si.edu/object/fsg_F1907.271.1-172)).*
+*Signatures for a miniature facsimile, printed from this tool's output, cut and grouped for sewing. Source: "The Ramayana (The Freer Ramayana), Volume 1," Mughal, 1597–1605, Freer Gallery of Art, Smithsonian Institution, gift of Charles Lang Freer, F1907.271.1-172 ([CC0](https://www.si.edu/object/fsg_F1907.271.1-172)).*
 
 Imposition is the step between "I have a PDF of my book" and "I have printed sheets I can fold and sew." Each page has to land in the right spot, in the right orientation, so that after duplex printing, cutting, and folding, the pages come out in order. The tools that do this well are mostly expensive prepress software; the free ones tend to handle only one fold layout or none of the fine-tuning a hand-printed book needs.
 
