@@ -2,11 +2,27 @@
 
 **Print-ready booklet imposition for hand bookbinders — free, scriptable, and size-agnostic.**
 
+![Cut and grouped signatures of a miniature illustrated manuscript facsimile](docs/signatures_photo.jpg)
+*Signatures for a miniature facsimile, printed from this tool's output, cut and grouped for sewing. Source: *The Ramayana (The Freer Ramayana), Volume 1*, Mughal, 1597–1605, Freer Gallery of Art, Smithsonian Institution, gift of Charles Lang Freer, F1907.271.1-172 ([CC0](https://www.si.edu/object/fsg_F1907.271.1-172)).*
+
 Imposition is the step between "I have a PDF of my book" and "I have printed sheets I can fold and sew." Each page has to land in the right spot, in the right orientation, so that after duplex printing, cutting, and folding, the pages come out in order. The tools that do this well are mostly expensive prepress software; the free ones tend to handle only one fold layout or none of the fine-tuning a hand-printed book needs.
 
 `impose` takes any PDF and produces a print-ready imposed PDF: front and back sheets, nested saddle signatures, bleed, cut lines, and fold marks. It works for anything from a 30 × 40 mm miniature to a full-size book.
 
-![Front and back of an imposed sheet](docs/demo_preview.png)
+![Detail of an imposed sheet: painted manuscript pages laid out in folios with cut lines](docs/sheet_detail.jpg)
+*Detail of the imposed sheet behind the photo: 30 × 40 mm pages, 2-folio signatures, 1 mm bleed, perimeter cut lines.*
+
+<details>
+<summary>Full sheet (80 pages on one side of a 13 × 19 in sheet)</summary>
+
+![Full imposed sheet](docs/sheet_full.jpg)
+</details>
+
+### Try it without a PDF
+
+The demo mode generates numbered test pages, which makes page order and alignment easy to check:
+
+![Front and back of an imposed demo sheet](docs/demo_preview.png)
 *Demo output: 16-page signature, 3.5 × 5 in pages on US Letter. The magenta band is bleed that gets trimmed away; page 2 prints behind page 1 after a long-edge flip.*
 
 ## Features
