@@ -128,6 +128,10 @@ offset by the signature's starting page. Each source page then goes through crop
 
 See [PROCESS.md](PROCESS.md) for the design decisions and problems solved along the way.
 
+## In progress
+
+I'm working on a version with a graphical interface, so the tool can be used without the command line.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
