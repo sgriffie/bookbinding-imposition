@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+process_pdfs/
+output/
+*.pdf
